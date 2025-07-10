@@ -6,7 +6,6 @@ I'm looking to learn and grow by getting involved in projects that push me forwa
 
 
 ---
-
 <br />
 
 ## Tech Skills 🛠️💻 
@@ -22,16 +21,13 @@ I'm looking to learn and grow by getting involved in projects that push me forwa
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <br />
 <br />
-<br />
-
 
 
 ## Education 📚 
 
 - Technical Introduction to Computing - Colégio Padre Anchieta (Feb - 2024 | Present)
 
-
-
+<br />
 
 ## Languages 🌍
 
