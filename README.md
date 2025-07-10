@@ -7,7 +7,9 @@ I'm looking to learn and grow by getting involved in projects that push me forwa
 
 ---
 
-# Skills 🛠️
+<br />
+
+## Tech Skills 🛠️💻 
 
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
@@ -19,6 +21,22 @@ I'm looking to learn and grow by getting involved in projects that push me forwa
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <br />
+<br />
+<br />
+
+
+
+## Education 📚 
+
+- Technical Introduction to Computing - Colégio Padre Anchieta (Feb - 2024 | Present)
+
+<br />
+
+
+## Languages 🌍
+
+- English (B2 - C1)
+- Portuguese (Native)
 
 
 <!--
