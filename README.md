@@ -1,4 +1,4 @@
-# Bernardo Barros 🧠
+# Bernardo Barros 
 
 **`Full Stack Developer`**
 
@@ -30,7 +30,7 @@ I'm looking to learn and grow by getting involved in projects that push me forwa
 
 - Technical Introduction to Computing - Colégio Padre Anchieta (Feb - 2024 | Present)
 
-<br />
+
 
 
 ## Languages 🌍
