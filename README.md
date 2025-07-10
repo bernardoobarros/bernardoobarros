@@ -1,12 +1,13 @@
-## Bernardo Barros 
+# Bernardo Barros 🧠
 
 **`Full Stack Developer`**
 
-My goal is to keep learning and be part of everything that can contribute to my growth. Currently working on personal projects for practice, refining my knowledge in JavaScript and Python. Looking for opportuinities to improve my skills working on real-world projects.
+I'm looking to learn and grow by getting involved in projects that push me forward. Right now, I’m working on personal projects to level up my skills, mainly in JavaScript and Python. Excited to find opportunities where I can apply what I’ve learned and keep improving through real-world experience.
+
 
 ---
 
-# Skills
+# Skills 🛠️
 
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
@@ -18,6 +19,7 @@ My goal is to keep learning and be part of everything that can contribute to my 
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <br />
+
 
 <!--
 **bernardoobarros/bernardoobarros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
