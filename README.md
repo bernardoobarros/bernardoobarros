@@ -2,7 +2,7 @@
 
 **`Full Stack Developer`**
 
-I'm looking to learn and grow by getting involved in projects that push me forward. Right now, I’m working on personal projects to level up my skills, mainly in JavaScript and Python. Excited to find opportunities where I can apply what I’ve learned and keep improving through real-world experience.
+I'm looking to learn by getting involved in projects that push me forward. Right now, I’m working on personal projects to level up my skills, mainly in JavaScript and Python. Excited to find opportunities where I can apply what I’ve learned and keep improving through real-world experience.
 
 
 ---
